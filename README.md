@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Motoko**
 
-- 💼 Currently working at **[Palo Alto Networks]** as a **[Software Engineer]**
+- 💼 Currently working at **Palo Alto Networks** as a **Software Engineer**
 
 - 🧩 I like building tools that automate workflows, solve everyday dev problems, or just make people go "whoa, that's clever."
 
