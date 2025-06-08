@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **sumeet0608/sumeet0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Motoko**
 
-- 👨‍💻 All of my projects are available at [sumeet0608](sumeet0608)
+- 👨‍💻 All of my projects are available at [sumeet0608](https://github.com/sumeet0608)
 
 - ⚡ Fun fact **My code works… unless someone watches me run it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeet" height="30" width="40" /></a>
+<a href="https://twitter.com/iamsumeet06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumeet-bafna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
