@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Motoko**
 
+- 🧩 I like building tools that automate workflows, solve everyday dev problems, or just make people go "whoa, that's clever."
+
 - 👨‍💻 All of my projects are available at [sumeet0608](https://github.com/sumeet0608)
 
-- ⚡ Fun fact **My code works… unless someone watches me run it.**
+- ⚡ Fun fact **Outside of code, I’m a part-time meme curator and full-time chai enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
