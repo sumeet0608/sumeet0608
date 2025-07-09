@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **GrooveQ**
 
-- 🌱 I’m currently learning **Motoko**
+- 🌱 I’m currently learning **Motoko** and **GoLang**
 
 - 💼 Currently working at **Palo Alto Networks** as a **Software Engineer**
 
